@@ -1863,7 +1863,7 @@ Discarded input sections
                 0x00000000        0x2 build/sam_e54_xpro_winc1500/production/_ext/1221796054/sys_cache.o
  .text.SYS_CACHE_CleanInvalidateDCache_by_Addr
                 0x00000000        0x2 build/sam_e54_xpro_winc1500/production/_ext/1221796054/sys_cache.o
- .debug_info    0x00000000      0x62f build/sam_e54_xpro_winc1500/production/_ext/1221796054/sys_cache.o
+ .debug_info    0x00000000      0x614 build/sam_e54_xpro_winc1500/production/_ext/1221796054/sys_cache.o
  .debug_abbrev  0x00000000       0x90 build/sam_e54_xpro_winc1500/production/_ext/1221796054/sys_cache.o
  .debug_aranges
                 0x00000000       0x80 build/sam_e54_xpro_winc1500/production/_ext/1221796054/sys_cache.o
@@ -2114,7 +2114,7 @@ Discarded input sections
                 0x00000000       0x3e build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_assoc.o
  .text.WDRV_WINC_AssociationRSSIGet
                 0x00000000       0x48 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_assoc.o
- .debug_info    0x00000000     0x4029 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_assoc.o
+ .debug_info    0x00000000     0x400e build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_assoc.o
  .debug_abbrev  0x00000000      0x2f5 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_assoc.o
  .debug_loc     0x00000000      0x6bd build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_assoc.o
  .debug_aranges
@@ -2165,7 +2165,7 @@ Discarded input sections
                 0x00000000       0x1e build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssfind.o
  .text.WDRV_WINC_BSSFindInProgress
                 0x00000000       0x10 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssfind.o
- .debug_info    0x00000000     0x4662 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssfind.o
+ .debug_info    0x00000000     0x4647 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssfind.o
  .debug_abbrev  0x00000000      0x353 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssfind.o
  .debug_loc     0x00000000      0x9f2 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssfind.o
  .debug_aranges
@@ -2186,7 +2186,7 @@ Discarded input sections
                 0x00000000       0x56 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_custie.o
  .text.WDRV_WINC_CustIEStoreCtxRemoveIE
                 0x00000000       0x7a build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_custie.o
- .debug_info    0x00000000     0x3400 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_custie.o
+ .debug_info    0x00000000     0x33e5 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_custie.o
  .debug_abbrev  0x00000000      0x29a build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_custie.o
  .debug_loc     0x00000000      0x3ca build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_custie.o
  .debug_aranges
@@ -2217,7 +2217,7 @@ Discarded input sections
  .rodata        0x00000000       0x20 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_nvm.o
  .rodata.flashLocationIDMap
                 0x00000000       0x14 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_nvm.o
- .debug_info    0x00000000     0x4c1f build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_nvm.o
+ .debug_info    0x00000000     0x4c04 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_nvm.o
  .debug_abbrev  0x00000000      0x3b3 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_nvm.o
  .debug_loc     0x00000000      0x984 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_nvm.o
  .debug_aranges
@@ -2240,7 +2240,7 @@ Discarded input sections
                 0x00000000       0x2c build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_powersave.o
  .text.WDRV_WINC_PowerSaveManualSleep
                 0x00000000       0x20 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_powersave.o
- .debug_info    0x00000000     0x4140 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_powersave.o
+ .debug_info    0x00000000     0x4125 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_powersave.o
  .debug_abbrev  0x00000000      0x2c3 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_powersave.o
  .debug_loc     0x00000000      0x419 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_powersave.o
  .debug_aranges
@@ -2287,7 +2287,7 @@ Discarded input sections
  .text.WDRV_WINC_WPSEnrolleeDiscoveryStop
                 0x00000000       0x1e build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_wps.o
  .rodata        0x00000000        0x8 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_wps.o
- .debug_info    0x00000000     0x4062 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_wps.o
+ .debug_info    0x00000000     0x4047 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_wps.o
  .debug_abbrev  0x00000000      0x333 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_wps.o
  .debug_loc     0x00000000      0x375 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_wps.o
  .debug_aranges
@@ -2356,7 +2356,7 @@ Discarded input sections
                 0x00000000       0x12 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_itf_proxy.o
  .text.WDRV_WINC_MACPowerSaveSetBeaconInterval
                 0x00000000       0x10 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_itf_proxy.o
- .debug_info    0x00000000     0x444c build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_itf_proxy.o
+ .debug_info    0x00000000     0x4431 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_itf_proxy.o
  .debug_abbrev  0x00000000      0x30f build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_itf_proxy.o
  .debug_loc     0x00000000      0x928 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_itf_proxy.o
  .debug_aranges
@@ -2393,7 +2393,7 @@ Discarded input sections
                 0x00000000       0x2a build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_periph.o
  .text.m2m_periph_pullup_ctrl
                 0x00000000        0x8 build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_periph.o
- .debug_info    0x00000000     0x34ce build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_periph.o
+ .debug_info    0x00000000     0x34b3 build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_periph.o
  .debug_abbrev  0x00000000      0x335 build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_periph.o
  .debug_loc     0x00000000      0x3c9 build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_periph.o
  .debug_aranges
@@ -2581,7 +2581,7 @@ Discarded input sections
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1114755757/flexible_flash.o
  .text.spi_flexible_flash_find_section
                 0x00000000       0x94 build/sam_e54_xpro_winc1500/production/_ext/1114755757/flexible_flash.o
- .debug_info    0x00000000     0x30d5 build/sam_e54_xpro_winc1500/production/_ext/1114755757/flexible_flash.o
+ .debug_info    0x00000000     0x30ba build/sam_e54_xpro_winc1500/production/_ext/1114755757/flexible_flash.o
  .debug_abbrev  0x00000000      0x294 build/sam_e54_xpro_winc1500/production/_ext/1114755757/flexible_flash.o
  .debug_loc     0x00000000      0x236 build/sam_e54_xpro_winc1500/production/_ext/1114755757/flexible_flash.o
  .debug_aranges
@@ -2625,7 +2625,7 @@ Discarded input sections
                 0x00000000        0x4 build/sam_e54_xpro_winc1500/production/_ext/1906958335/xc32_monitor.o
  .text._mon_putc
                 0x00000000        0x2 build/sam_e54_xpro_winc1500/production/_ext/1906958335/xc32_monitor.o
- .debug_info    0x00000000      0x2ce build/sam_e54_xpro_winc1500/production/_ext/1906958335/xc32_monitor.o
+ .debug_info    0x00000000      0x2b3 build/sam_e54_xpro_winc1500/production/_ext/1906958335/xc32_monitor.o
  .debug_abbrev  0x00000000       0x75 build/sam_e54_xpro_winc1500/production/_ext/1906958335/xc32_monitor.o
  .debug_loc     0x00000000       0x21 build/sam_e54_xpro_winc1500/production/_ext/1906958335/xc32_monitor.o
  .debug_aranges
@@ -2675,7 +2675,7 @@ Discarded input sections
                 0x00000000       0x28 build/sam_e54_xpro_winc1500/production/_ext/1643731573/plib_cmcc.o
  .text.CMCC_InvalidateAll
                 0x00000000       0x20 build/sam_e54_xpro_winc1500/production/_ext/1643731573/plib_cmcc.o
- .debug_info    0x00000000      0x5bb build/sam_e54_xpro_winc1500/production/_ext/1643731573/plib_cmcc.o
+ .debug_info    0x00000000      0x5a0 build/sam_e54_xpro_winc1500/production/_ext/1643731573/plib_cmcc.o
  .debug_abbrev  0x00000000       0x93 build/sam_e54_xpro_winc1500/production/_ext/1643731573/plib_cmcc.o
  .debug_aranges
                 0x00000000       0x48 build/sam_e54_xpro_winc1500/production/_ext/1643731573/plib_cmcc.o
@@ -2693,7 +2693,7 @@ Discarded input sections
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
  .text._exit    0x00000000        0x2 build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
- .debug_info    0x00000000      0xee7 build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
+ .debug_info    0x00000000      0xecc build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
  .debug_abbrev  0x00000000      0x1a8 build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
  .debug_aranges
                 0x00000000       0x20 build/sam_e54_xpro_winc1500/production/_ext/231993977/libc_syscalls.o
@@ -2751,7 +2751,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
- .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
+ .debug_info    0x00000000      0x2fd build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/arc4.o
@@ -2763,7 +2763,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
- .debug_info    0x00000000      0x317 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
+ .debug_info    0x00000000      0x2fc build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asm.o
@@ -3113,7 +3113,7 @@ Discarded input sections
                 0x00000000        0xc build/sam_e54_xpro_winc1500/production/_ext/1664057780/asn.o
  .rodata.wrapAes256Oid
                 0x00000000        0xc build/sam_e54_xpro_winc1500/production/_ext/1664057780/asn.o
- .debug_info    0x00000000     0xdf24 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asn.o
+ .debug_info    0x00000000     0xdf09 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asn.o
  .debug_abbrev  0x00000000      0x635 build/sam_e54_xpro_winc1500/production/_ext/1664057780/asn.o
  .debug_loc     0x00000000     0xa3af build/sam_e54_xpro_winc1500/production/_ext/1664057780/asn.o
  .debug_aranges
@@ -3128,7 +3128,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
- .debug_info    0x00000000      0x31b build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
+ .debug_info    0x00000000      0x300 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2b.o
@@ -3140,7 +3140,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
- .debug_info    0x00000000      0x31b build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
+ .debug_info    0x00000000      0x300 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/blake2s.o
@@ -3152,7 +3152,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
- .debug_info    0x00000000      0x31c build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
+ .debug_info    0x00000000      0x301 build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/camellia.o
@@ -3164,7 +3164,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
- .debug_info    0x00000000      0x31a build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
+ .debug_info    0x00000000      0x2ff build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha.o
@@ -3176,7 +3176,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
- .debug_info    0x00000000      0x325 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
+ .debug_info    0x00000000      0x30a build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/chacha20_poly1305.o
@@ -3188,7 +3188,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
- .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
+ .debug_info    0x00000000      0x2fd build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cmac.o
@@ -3204,7 +3204,7 @@ Discarded input sections
                 0x00000000      0x1e0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/coding.o
  .rodata.base64Decode
                 0x00000000       0x50 build/sam_e54_xpro_winc1500/production/_ext/1664057780/coding.o
- .debug_info    0x00000000     0x1b75 build/sam_e54_xpro_winc1500/production/_ext/1664057780/coding.o
+ .debug_info    0x00000000     0x1b5a build/sam_e54_xpro_winc1500/production/_ext/1664057780/coding.o
  .debug_abbrev  0x00000000      0x20b build/sam_e54_xpro_winc1500/production/_ext/1664057780/coding.o
  .debug_loc     0x00000000      0x80c build/sam_e54_xpro_winc1500/production/_ext/1664057780/coding.o
  .debug_aranges
@@ -3219,7 +3219,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
- .debug_info    0x00000000      0x31c build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
+ .debug_info    0x00000000      0x301 build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/compress.o
@@ -3231,7 +3231,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
- .debug_info    0x00000000      0xeaf build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
+ .debug_info    0x00000000      0xe94 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cpuid.o
@@ -3284,7 +3284,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
- .debug_info    0x00000000      0x31e build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
+ .debug_info    0x00000000      0x303 build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/curve25519.o
@@ -3296,7 +3296,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
- .debug_info    0x00000000      0x316 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
+ .debug_info    0x00000000      0x2fb build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dh.o
@@ -3308,7 +3308,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
- .debug_info    0x00000000      0x317 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
+ .debug_info    0x00000000      0x2fc build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/dsa.o
@@ -3480,7 +3480,7 @@ Discarded input sections
                 0x00000000        0x8 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ecc.o
  .rodata.ecc_sets
                 0x00000000      0x208 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ecc.o
- .debug_info    0x00000000     0xa0e2 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ecc.o
+ .debug_info    0x00000000     0xa0c7 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ecc.o
  .debug_abbrev  0x00000000      0x4ee build/sam_e54_xpro_winc1500/production/_ext/1664057780/ecc.o
  .debug_loc     0x00000000     0x7e02 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ecc.o
  .debug_aranges
@@ -3503,7 +3503,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
- .debug_info    0x00000000      0x31b build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
+ .debug_info    0x00000000      0x300 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ed25519.o
@@ -3515,7 +3515,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
- .debug_info    0x00000000      0xeaf build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
+ .debug_info    0x00000000      0xe94 build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/error.o
@@ -3527,7 +3527,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
- .debug_info    0x00000000      0x31e build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
+ .debug_info    0x00000000      0x303 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_low_mem.o
@@ -3539,7 +3539,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
- .debug_info    0x00000000      0x321 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
+ .debug_info    0x00000000      0x306 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/fe_operations.o
@@ -3551,7 +3551,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
- .debug_info    0x00000000      0x31e build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
+ .debug_info    0x00000000      0x303 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_low_mem.o
@@ -3563,7 +3563,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
- .debug_info    0x00000000      0x321 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
+ .debug_info    0x00000000      0x306 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ge_operations.o
@@ -3611,7 +3611,7 @@ Discarded input sections
                 0x00000000      0x13a build/sam_e54_xpro_winc1500/production/_ext/1664057780/hash.o
  .text.wc_PRF_TLS
                 0x00000000       0x86 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hash.o
- .debug_info    0x00000000     0x38c0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hash.o
+ .debug_info    0x00000000     0x38a5 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hash.o
  .debug_abbrev  0x00000000      0x3e5 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hash.o
  .debug_loc     0x00000000     0x2028 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hash.o
  .debug_aranges
@@ -3626,7 +3626,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
- .debug_info    0x00000000      0x319 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
+ .debug_info    0x00000000      0x2fe build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hc128.o
@@ -3656,7 +3656,7 @@ Discarded input sections
                 0x00000000      0x196 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hmac.o
  .text.wolfSSL_GetHmacMaxSize
                 0x00000000        0x4 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hmac.o
- .debug_info    0x00000000     0x2aec build/sam_e54_xpro_winc1500/production/_ext/1664057780/hmac.o
+ .debug_info    0x00000000     0x2ad1 build/sam_e54_xpro_winc1500/production/_ext/1664057780/hmac.o
  .debug_abbrev  0x00000000      0x35b build/sam_e54_xpro_winc1500/production/_ext/1664057780/hmac.o
  .debug_loc     0x00000000      0xcbc build/sam_e54_xpro_winc1500/production/_ext/1664057780/hmac.o
  .debug_aranges
@@ -3671,7 +3671,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
- .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
+ .debug_info    0x00000000      0x2fd build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/idea.o
@@ -3683,7 +3683,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
- .debug_info    0x00000000      0xeb1 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
+ .debug_info    0x00000000      0xe96 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/integer.o
@@ -3701,7 +3701,7 @@ Discarded input sections
                 0x00000000        0x6 build/sam_e54_xpro_winc1500/production/_ext/1664057780/logging.o
  .text.wolfSSL_Debugging_OFF
                 0x00000000        0x2 build/sam_e54_xpro_winc1500/production/_ext/1664057780/logging.o
- .debug_info    0x00000000     0x1a55 build/sam_e54_xpro_winc1500/production/_ext/1664057780/logging.o
+ .debug_info    0x00000000     0x1a3a build/sam_e54_xpro_winc1500/production/_ext/1664057780/logging.o
  .debug_abbrev  0x00000000      0x1ef build/sam_e54_xpro_winc1500/production/_ext/1664057780/logging.o
  .debug_loc     0x00000000       0x21 build/sam_e54_xpro_winc1500/production/_ext/1664057780/logging.o
  .debug_aranges
@@ -3716,7 +3716,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
- .debug_info    0x00000000      0x317 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
+ .debug_info    0x00000000      0x2fc build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md2.o
@@ -3728,7 +3728,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
- .debug_info    0x00000000      0x317 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
+ .debug_info    0x00000000      0x2fc build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md4.o
@@ -3740,7 +3740,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
- .debug_info    0x00000000      0x31a build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
+ .debug_info    0x00000000      0x2ff build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/memory.o
@@ -3752,7 +3752,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
- .debug_info    0x00000000      0x31a build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
+ .debug_info    0x00000000      0x2ff build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs12.o
@@ -3764,7 +3764,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
- .debug_info    0x00000000      0x319 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
+ .debug_info    0x00000000      0x2fe build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pkcs7.o
@@ -3776,7 +3776,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
- .debug_info    0x00000000      0x31c build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
+ .debug_info    0x00000000      0x301 build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/poly1305.o
@@ -3788,7 +3788,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
- .debug_info    0x00000000      0x31c build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
+ .debug_info    0x00000000      0x301 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/pwdbased.o
@@ -3800,7 +3800,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
- .debug_info    0x00000000      0x31a build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
+ .debug_info    0x00000000      0x2ff build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/rabbit.o
@@ -3812,7 +3812,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
- .debug_info    0x00000000      0x31a build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
+ .debug_info    0x00000000      0x2ff build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/ripemd.o
@@ -3866,7 +3866,7 @@ Discarded input sections
                 0x00000000       0x8a build/sam_e54_xpro_winc1500/production/_ext/1664057780/rsa.o
  .text.wc_RsaExportKey
                 0x00000000       0xbc build/sam_e54_xpro_winc1500/production/_ext/1664057780/rsa.o
- .debug_info    0x00000000     0x569f build/sam_e54_xpro_winc1500/production/_ext/1664057780/rsa.o
+ .debug_info    0x00000000     0x5684 build/sam_e54_xpro_winc1500/production/_ext/1664057780/rsa.o
  .debug_abbrev  0x00000000      0x491 build/sam_e54_xpro_winc1500/production/_ext/1664057780/rsa.o
  .debug_loc     0x00000000     0x376b build/sam_e54_xpro_winc1500/production/_ext/1664057780/rsa.o
  .debug_aranges
@@ -3881,7 +3881,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
- .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
+ .debug_info    0x00000000      0x2fd build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha3.o
@@ -3903,7 +3903,7 @@ Discarded input sections
                 0x00000000       0xe6 build/sam_e54_xpro_winc1500/production/_ext/1664057780/signature.o
  .text.wc_SignatureGenerate
                 0x00000000       0xf6 build/sam_e54_xpro_winc1500/production/_ext/1664057780/signature.o
- .debug_info    0x00000000     0x3561 build/sam_e54_xpro_winc1500/production/_ext/1664057780/signature.o
+ .debug_info    0x00000000     0x3546 build/sam_e54_xpro_winc1500/production/_ext/1664057780/signature.o
  .debug_abbrev  0x00000000      0x3d6 build/sam_e54_xpro_winc1500/production/_ext/1664057780/signature.o
  .debug_loc     0x00000000      0xeca build/sam_e54_xpro_winc1500/production/_ext/1664057780/signature.o
  .debug_aranges
@@ -3918,7 +3918,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
- .debug_info    0x00000000      0xeb2 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
+ .debug_info    0x00000000      0xe97 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm32.o
@@ -3930,7 +3930,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
- .debug_info    0x00000000      0xeb2 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
+ .debug_info    0x00000000      0xe97 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_arm64.o
@@ -3942,7 +3942,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
- .debug_info    0x00000000      0xeb5 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
+ .debug_info    0x00000000      0xe9a build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_armthumb.o
@@ -3954,7 +3954,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
- .debug_info    0x00000000      0xeb0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
+ .debug_info    0x00000000      0xe95 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c32.o
@@ -3966,7 +3966,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
- .debug_info    0x00000000      0xeb0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
+ .debug_info    0x00000000      0xe95 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_c64.o
@@ -3978,7 +3978,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
- .debug_info    0x00000000      0xeb4 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
+ .debug_info    0x00000000      0xe99 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_cortexm.o
@@ -3990,7 +3990,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
- .debug_info    0x00000000      0xeb0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
+ .debug_info    0x00000000      0xe95 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_int.o
@@ -4002,7 +4002,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
- .debug_info    0x00000000      0xeb3 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
+ .debug_info    0x00000000      0xe98 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sp_x86_64.o
@@ -4014,7 +4014,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
- .debug_info    0x00000000      0x317 build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
+ .debug_info    0x00000000      0x2fc build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/srp.o
@@ -4228,7 +4228,7 @@ Discarded input sections
  .rodata.lnz    0x00000000       0x40 build/sam_e54_xpro_winc1500/production/_ext/1664057780/tfm.o
  .rodata.primes
                 0x00000000      0x400 build/sam_e54_xpro_winc1500/production/_ext/1664057780/tfm.o
- .debug_info    0x00000000     0x6a09 build/sam_e54_xpro_winc1500/production/_ext/1664057780/tfm.o
+ .debug_info    0x00000000     0x69ee build/sam_e54_xpro_winc1500/production/_ext/1664057780/tfm.o
  .debug_abbrev  0x00000000      0x533 build/sam_e54_xpro_winc1500/production/_ext/1664057780/tfm.o
  .debug_loc     0x00000000     0x6ca7 build/sam_e54_xpro_winc1500/production/_ext/1664057780/tfm.o
  .debug_aranges
@@ -4255,7 +4255,7 @@ Discarded input sections
                 0x00000000       0x4e build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_encrypt.o
  .text.wc_Des3_CbcDecryptWithKey
                 0x00000000       0x4e build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_encrypt.o
- .debug_info    0x00000000     0x24b1 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_encrypt.o
+ .debug_info    0x00000000     0x2496 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_encrypt.o
  .debug_abbrev  0x00000000      0x22e build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_encrypt.o
  .debug_loc     0x00000000      0x87d build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_encrypt.o
  .debug_aranges
@@ -4270,7 +4270,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
- .debug_info    0x00000000      0x31d build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
+ .debug_info    0x00000000      0x302 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_pkcs11.o
@@ -4304,7 +4304,7 @@ Discarded input sections
                 0x00000000       0x68 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_port.o
  .bss.initRefCount
                 0x00000000        0x4 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_port.o
- .debug_info    0x00000000     0x213b build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_port.o
+ .debug_info    0x00000000     0x2120 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_port.o
  .debug_abbrev  0x00000000      0x345 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_port.o
  .debug_loc     0x00000000      0x448 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wc_port.o
  .debug_aranges
@@ -4319,7 +4319,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
- .debug_info    0x00000000      0x31d build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
+ .debug_info    0x00000000      0x302 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfevent.o
@@ -4341,7 +4341,7 @@ Discarded input sections
                 0x00000000       0x4e build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfmath.o
  .rodata.wc_off_on_addr
                 0x00000000        0x8 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfmath.o
- .debug_info    0x00000000     0x1f92 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfmath.o
+ .debug_info    0x00000000     0x1f77 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfmath.o
  .debug_abbrev  0x00000000      0x267 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfmath.o
  .debug_loc     0x00000000      0x2a5 build/sam_e54_xpro_winc1500/production/_ext/1664057780/wolfmath.o
  .debug_aranges
@@ -4356,7 +4356,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
- .debug_info    0x00000000      0x32c build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
+ .debug_info    0x00000000      0x311 build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/pic32mz-crypt.o
@@ -4368,7 +4368,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
- .debug_info    0x00000000      0x330 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
+ .debug_info    0x00000000      0x315 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_sam6149.o
@@ -4380,7 +4380,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
- .debug_info    0x00000000      0x32e build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
+ .debug_info    0x00000000      0x313 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_aes_u2238.o
@@ -4392,7 +4392,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
- .debug_info    0x00000000     0x3292 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
+ .debug_info    0x00000000     0x3277 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
  .debug_abbrev  0x00000000      0x1a7 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_ecc_pukcl.o
@@ -4410,7 +4410,7 @@ Discarded input sections
                 0x00000000       0x4e build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_pukcl_functions.o
  .bss.SelfTestState
                 0x00000000        0x1 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_pukcl_functions.o
- .debug_info    0x00000000     0x32b0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_pukcl_functions.o
+ .debug_info    0x00000000     0x3295 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_pukcl_functions.o
  .debug_abbrev  0x00000000      0x23c build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_pukcl_functions.o
  .debug_loc     0x00000000      0x1df build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_pukcl_functions.o
  .debug_aranges
@@ -4426,7 +4426,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
- .debug_info    0x00000000      0x330 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
+ .debug_info    0x00000000      0x315 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_sam6334.o
@@ -4438,7 +4438,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
- .debug_info    0x00000000      0x32e build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
+ .debug_info    0x00000000      0x313 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rng_u2242.o
@@ -4450,7 +4450,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
- .debug_info    0x00000000     0x3292 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
+ .debug_info    0x00000000     0x3277 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
  .debug_abbrev  0x00000000      0x1a7 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_rsa_pukcl.o
@@ -4462,7 +4462,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
- .debug_info    0x00000000      0x332 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
+ .debug_info    0x00000000      0x317 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam11105.o
@@ -4474,7 +4474,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
- .debug_info    0x00000000      0x331 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
+ .debug_info    0x00000000      0x316 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha1_sam6156.o
@@ -4486,7 +4486,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
- .debug_info    0x00000000      0x334 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
+ .debug_info    0x00000000      0x319 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam11105.o
@@ -4498,7 +4498,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
- .debug_info    0x00000000      0x333 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
+ .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha224_sam6156.o
@@ -4510,7 +4510,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
- .debug_info    0x00000000      0x334 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
+ .debug_info    0x00000000      0x319 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam11105.o
@@ -4522,7 +4522,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
- .debug_info    0x00000000      0x333 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
+ .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha256_sam6156.o
@@ -4534,7 +4534,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
- .debug_info    0x00000000      0x333 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
+ .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha384_sam6156.o
@@ -4546,7 +4546,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
- .debug_info    0x00000000      0x333 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
+ .debug_info    0x00000000      0x318 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_sha512_sam6156.o
@@ -4558,7 +4558,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
- .debug_info    0x00000000      0x331 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
+ .debug_info    0x00000000      0x316 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_tdes_sam6150.o
@@ -4643,7 +4643,7 @@ Discarded input sections
  .rodata.Td4    0x00000000      0x100 build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
  .rodata.Te     0x00000000     0x1000 build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
  .rodata.rcon   0x00000000       0x28 build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
- .debug_info    0x00000000     0x652b build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
+ .debug_info    0x00000000     0x6510 build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
  .debug_abbrev  0x00000000      0x4f5 build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
  .debug_loc     0x00000000     0x65b5 build/sam_e54_xpro_winc1500/production/_ext/1664057780/aes.o
  .debug_aranges
@@ -4693,7 +4693,7 @@ Discarded input sections
  .rodata.pc2    0x00000000       0x30 build/sam_e54_xpro_winc1500/production/_ext/1664057780/des3.o
  .rodata.totrot
                 0x00000000       0x10 build/sam_e54_xpro_winc1500/production/_ext/1664057780/des3.o
- .debug_info    0x00000000     0x3469 build/sam_e54_xpro_winc1500/production/_ext/1664057780/des3.o
+ .debug_info    0x00000000     0x344e build/sam_e54_xpro_winc1500/production/_ext/1664057780/des3.o
  .debug_abbrev  0x00000000      0x3dd build/sam_e54_xpro_winc1500/production/_ext/1664057780/des3.o
  .debug_loc     0x00000000     0xa17d build/sam_e54_xpro_winc1500/production/_ext/1664057780/des3.o
  .debug_aranges
@@ -4764,7 +4764,7 @@ Discarded input sections
                 0x00000000       0x20 build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
  .rodata.seedA  0x00000000       0x30 build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
  .rodata.seedB  0x00000000       0x30 build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
- .debug_info    0x00000000     0x46ef build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
+ .debug_info    0x00000000     0x46d4 build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
  .debug_abbrev  0x00000000      0x461 build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
  .debug_loc     0x00000000     0x217e build/sam_e54_xpro_winc1500/production/_ext/1664057780/random.o
  .debug_aranges
@@ -4801,7 +4801,7 @@ Discarded input sections
                 0x00000000        0x8 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha.o
  .text.wc_ShaGetFlags
                 0x00000000        0xc build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha.o
- .debug_info    0x00000000     0x3c12 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha.o
+ .debug_info    0x00000000     0x3bf7 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha.o
  .debug_abbrev  0x00000000      0x3a9 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha.o
  .debug_loc     0x00000000     0x6502 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha.o
  .debug_aranges
@@ -4857,7 +4857,7 @@ Discarded input sections
  .text.wc_Sha256GetFlags
                 0x00000000        0xc build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha256.o
  .rodata.K      0x00000000      0x100 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha256.o
- .debug_info    0x00000000     0x37f9 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha256.o
+ .debug_info    0x00000000     0x37de build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha256.o
  .debug_abbrev  0x00000000      0x408 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha256.o
  .debug_loc     0x00000000     0x1860 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha256.o
  .debug_aranges
@@ -4872,7 +4872,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
- .debug_info    0x00000000      0x31a build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
+ .debug_info    0x00000000      0x2ff build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
  .debug_abbrev  0x00000000       0x1b build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/sha512.o
@@ -4884,7 +4884,7 @@ Discarded input sections
  .text          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
  .data          0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
  .bss           0x00000000        0x0 build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
- .debug_info    0x00000000      0xeae build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
+ .debug_info    0x00000000      0xe93 build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
  .debug_abbrev  0x00000000      0x176 build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
  .debug_aranges
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/1664057780/misc.o
@@ -5092,7 +5092,7 @@ Discarded input sections
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/16263090/ff.o
  .rodata.vst.9625
                 0x00000000       0x18 build/sam_e54_xpro_winc1500/production/_ext/16263090/ff.o
- .debug_info    0x00000000     0x567f build/sam_e54_xpro_winc1500/production/_ext/16263090/ff.o
+ .debug_info    0x00000000     0x5664 build/sam_e54_xpro_winc1500/production/_ext/16263090/ff.o
  .debug_abbrev  0x00000000      0x380 build/sam_e54_xpro_winc1500/production/_ext/16263090/ff.o
  .debug_loc     0x00000000     0x8cb1 build/sam_e54_xpro_winc1500/production/_ext/16263090/ff.o
  .debug_aranges
@@ -5125,7 +5125,7 @@ Discarded input sections
                 0x00000000       0x26 build/sam_e54_xpro_winc1500/production/_ext/16263090/diskio.o
  .bss.gSysFsDiskData
                 0x00000000      0x220 build/sam_e54_xpro_winc1500/production/_ext/16263090/diskio.o
- .debug_info    0x00000000     0x1ff0 build/sam_e54_xpro_winc1500/production/_ext/16263090/diskio.o
+ .debug_info    0x00000000     0x1fd5 build/sam_e54_xpro_winc1500/production/_ext/16263090/diskio.o
  .debug_abbrev  0x00000000      0x346 build/sam_e54_xpro_winc1500/production/_ext/16263090/diskio.o
  .debug_loc     0x00000000      0x589 build/sam_e54_xpro_winc1500/production/_ext/16263090/diskio.o
  .debug_aranges
@@ -6858,163 +6858,163 @@ LOAD data_init
  .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
  .comment       0x0000003c       0x3d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(sbrk.o)
 
-.debug_info     0x00000000   0x19d061
- .debug_info    0x00000000     0x174b build/sam_e54_xpro_winc1500/production/_ext/1370199163/plib_nvmctrl.o
- .debug_info    0x0000174b     0x7f30 build/sam_e54_xpro_winc1500/production/_ext/949561665/dns.o
- .debug_info    0x0000967b     0x54eb build/sam_e54_xpro_winc1500/production/_ext/949561665/icmp.o
- .debug_info    0x0000eb66     0x38bb build/sam_e54_xpro_winc1500/production/_ext/1319543403/drv_memory.o
- .debug_info    0x00012421     0x17ea build/sam_e54_xpro_winc1500/production/_ext/1319543403/drv_memory_file_system.o
- .debug_info    0x00013c0b     0xb73b build/sam_e54_xpro_winc1500/production/_ext/949561665/tcp.o
- .debug_info    0x0001f346     0x9a57 build/sam_e54_xpro_winc1500/production/_ext/949561665/dhcp.o
- .debug_info    0x00028d9d     0x7289 build/sam_e54_xpro_winc1500/production/_ext/949561665/arp.o
- .debug_info    0x00030026      0xc8b build/sam_e54_xpro_winc1500/production/_ext/1320145242/plib_tc3.o
- .debug_info    0x00030cb1     0x3a62 build/sam_e54_xpro_winc1500/production/_ext/323285254/sys_time.o
- .debug_info    0x00034713     0xa124 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_commands.o
- .debug_info    0x0003e837     0x33d8 build/sam_e54_xpro_winc1500/production/_ext/1319543403/drv_memory_nvmctrl.o
- .debug_info    0x00041c0f     0x10f4 build/sam_e54_xpro_winc1500/production/_ext/1159541321/bsp.o
- .debug_info    0x00042d03     0x7ddc build/sam_e54_xpro_winc1500/production/_ext/949561665/http.o
- .debug_info    0x0004aadf     0x2d88 build/sam_e54_xpro_winc1500/production/_ext/1360937237/http_print.o
- .debug_info    0x0004d867     0x5bc8 build/sam_e54_xpro_winc1500/production/_ext/1360937237/custom_http_app.o
- .debug_info    0x0005342f     0x320e build/sam_e54_xpro_winc1500/production/_ext/1360937237/mpfs_img2.o
- .debug_info    0x0005663d     0x85bf build/sam_e54_xpro_winc1500/production/_ext/949561665/iperf.o
- .debug_info    0x0005ebfc     0x696a build/sam_e54_xpro_winc1500/production/_ext/949561665/ipv4.o
- .debug_info    0x00065566     0x5372 build/sam_e54_xpro_winc1500/production/_ext/138683810/drv_spi.o
- .debug_info    0x0006a8d8     0x86b8 build/sam_e54_xpro_winc1500/production/_ext/949561665/dhcps.o
- .debug_info    0x00072f90     0x122d build/sam_e54_xpro_winc1500/production/_ext/203683476/sys_int.o
- .debug_info    0x000741bd      0x88d build/sam_e54_xpro_winc1500/production/_ext/895123808/sys_dma.o
- .debug_info    0x00074a4a     0x46ba build/sam_e54_xpro_winc1500/production/_ext/1360937237/app.o
- .debug_info    0x00079104     0x2f8f build/sam_e54_xpro_winc1500/production/_ext/231993977/tasks.o
- .debug_info    0x0007c093     0x32f5 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_heap_alloc.o
- .debug_info    0x0007f388     0x413e build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_heap_internal.o
- .debug_info    0x000834c6     0x29e2 build/sam_e54_xpro_winc1500/production/_ext/1864836729/sys_fs_shell.o
- .debug_info    0x00085ea8     0x1238 build/sam_e54_xpro_winc1500/production/_ext/949561665/helpers.o
- .debug_info    0x000870e0      0xf9e build/sam_e54_xpro_winc1500/production/_ext/949561665/hash_fnv.o
- .debug_info    0x0008807e     0x1618 build/sam_e54_xpro_winc1500/production/_ext/949561665/oahash.o
- .debug_info    0x00089696     0x7063 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_helpers.o
- .debug_info    0x000906f9     0xbcc0 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_manager.o
- .debug_info    0x0009c3b9     0x312a build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_notify.o
- .debug_info    0x0009f4e3     0x410c build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_packet.o
- .debug_info    0x000a35ef      0x59a build/sam_e54_xpro_winc1500/production/_ext/1018908599/sys_time_h2_adapter.o
- .debug_info    0x000a3b89     0x16ae build/sam_e54_xpro_winc1500/production/_ext/923560386/plib_sercom2_usart.o
- .debug_info    0x000a5237      0x38c build/sam_e54_xpro_winc1500/production/_ext/581797455/plib_evsys.o
- .debug_info    0x000a55c3     0x69fa build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc.o
- .debug_info    0x000abfbd     0x3d0e build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_authctx.o
- .debug_info    0x000afccb     0x3552 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssctx.o
- .debug_info    0x000b321d     0x3f3f build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_ethernet.o
- .debug_info    0x000b715c     0x42e7 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_softap.o
- .debug_info    0x000bb443     0x47bc build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_sta.o
- .debug_info    0x000bfbff     0x42d4 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_systime.o
- .debug_info    0x000c3ed3     0x3001 build/sam_e54_xpro_winc1500/production/_ext/1232460686/wdrv_winc_eint.o
- .debug_info    0x000c6ed4     0x31cb build/sam_e54_xpro_winc1500/production/_ext/1232460686/wdrv_winc_gpio.o
- .debug_info    0x000ca09f     0x3e33 build/sam_e54_xpro_winc1500/production/_ext/930086057/wdrv_winc_spi.o
- .debug_info    0x000cded2     0x3022 build/sam_e54_xpro_winc1500/production/_ext/550069128/wdrv_winc_osal.o
- .debug_info    0x000d0ef4     0x4510 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_ctrl_itf.o
- .debug_info    0x000d5404     0x6f49 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_stack_drv.o
- .debug_info    0x000dc34d     0x3650 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_pktpool.o
- .debug_info    0x000df99d     0x3670 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_stack_itf.o
- .debug_info    0x000e300d     0x30b8 build/sam_e54_xpro_winc1500/production/_ext/1121136421/nm_common.o
- .debug_info    0x000e60c5     0x455b build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_hif.o
- .debug_info    0x000ea620     0x9b96 build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_wifi.o
- .debug_info    0x000f41b6     0x4112 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmasic.o
- .debug_info    0x000f82c8     0x37f3 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmbus.o
- .debug_info    0x000fbabb     0x38e7 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmdrv.o
- .debug_info    0x000ff3a2     0x47a2 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmspi.o
- .debug_info    0x00103b44     0x40e0 build/sam_e54_xpro_winc1500/production/_ext/1114755757/spi_flash.o
- .debug_info    0x00107c24     0x30ee build/sam_e54_xpro_winc1500/production/_ext/44421432/sys_command.o
- .debug_info    0x0010ad12     0x2f1d build/sam_e54_xpro_winc1500/production/_ext/1360937237/main.o
- .debug_info    0x0010dc2f     0x8803 build/sam_e54_xpro_winc1500/production/_ext/231993977/initialization.o
- .debug_info    0x00116432     0x44f1 build/sam_e54_xpro_winc1500/production/_ext/231993977/interrupts.o
- .debug_info    0x0011a923     0x2fcb build/sam_e54_xpro_winc1500/production/_ext/231993977/exceptions.o
- .debug_info    0x0011d8ee      0x858 build/sam_e54_xpro_winc1500/production/_ext/1644121260/plib_port.o
- .debug_info    0x0011e146      0xb9d build/sam_e54_xpro_winc1500/production/_ext/583946941/plib_clock.o
- .debug_info    0x0011ece3     0x1490 build/sam_e54_xpro_winc1500/production/_ext/1644068109/plib_nvic.o
- .debug_info    0x00120173     0x341f build/sam_e54_xpro_winc1500/production/_ext/231993977/startup_xc32.o
- .debug_info    0x00123592     0x13fa build/sam_e54_xpro_winc1500/production/_ext/801553948/plib_sercom4_spi.o
- .debug_info    0x0012498c     0x9528 build/sam_e54_xpro_winc1500/production/_ext/949561665/udp.o
- .debug_info    0x0012deb4      0x796 build/sam_e54_xpro_winc1500/production/_ext/2025184588/plib_eic.o
- .debug_info    0x0012e64a     0x14f5 build/sam_e54_xpro_winc1500/production/_ext/1623561264/sys_debug.o
- .debug_info    0x0012fb3f     0x44c1 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cryptocb.o
- .debug_info    0x00134000     0x2b0b build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_wolfcryptcb.o
- .debug_info    0x00136b0b     0x2141 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md5.o
- .debug_info    0x00138c4c     0x6d52 build/sam_e54_xpro_winc1500/production/_ext/949561665/dnss.o
- .debug_info    0x0013f99e     0x4d60 build/sam_e54_xpro_winc1500/production/_ext/880000762/sys_fs.o
- .debug_info    0x001446fe     0x336a build/sam_e54_xpro_winc1500/production/_ext/880000762/sys_fs_media_manager.o
- .debug_info    0x00147a68     0x2785 build/sam_e54_xpro_winc1500/production/_ext/1320862289/mpfs.o
- .debug_info    0x0014a1ed     0x19a2 build/sam_e54_xpro_winc1500/production/_ext/501133612/sys_console.o
- .debug_info    0x0014bb8f     0x544c build/sam_e54_xpro_winc1500/production/_ext/501133612/sys_console_uart.o
- .debug_info    0x00150fdb     0x4bf5 build/sam_e54_xpro_winc1500/production/_ext/764583198/crypto.o
- .debug_info    0x00155bd0      0x2a2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
- .debug_info    0x00155e72      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
- .debug_info    0x00155f74      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
- .debug_info    0x00156076      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
- .debug_info    0x00156178      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
- .debug_info    0x0015627a       0xfd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
- .debug_info    0x00156377     0x1696 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
- .debug_info    0x00157a0d      0x101 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
- .debug_info    0x00157b0e      0xea7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-atoi.o)
- .debug_info    0x001589b5      0xea7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-atol.o)
- .debug_info    0x0015985c      0xe53 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
- .debug_info    0x0015a6af      0xdef c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
- .debug_info    0x0015b49e      0x41f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
- .debug_info    0x0015b8bd     0x189e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
- .debug_info    0x0015d15b      0xe92 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
- .debug_info    0x0015dfed     0x1782 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
- .debug_info    0x0015f76f      0xe49 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
- .debug_info    0x001605b8      0xe68 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
- .debug_info    0x00161420     0x15de c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
- .debug_info    0x001629fe     0x15ae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
- .debug_info    0x00163fac     0x12ff c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mktime.o)
- .debug_info    0x001652ab     0x10e1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
- .debug_info    0x0016638c     0x11c1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
- .debug_info    0x0016754d     0x1259 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
- .debug_info    0x001687a6      0xeda c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
- .debug_info    0x00169680      0xedf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
- .debug_info    0x0016a55f     0x12cf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-snprintf.o)
- .debug_info    0x0016b82e     0x125c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
- .debug_info    0x0016ca8a      0xe2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strchr.o)
- .debug_info    0x0016d8b6      0x129 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
- .debug_info    0x0016d9df      0xe0b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcpy.o)
- .debug_info    0x0016e7ea      0x12a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
- .debug_info    0x0016e914      0xe24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strncmp.o)
- .debug_info    0x0016f738      0xe4c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strncpy.o)
- .debug_info    0x00170584      0xe31 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
- .debug_info    0x001713b5     0x1936 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
- .debug_info    0x00172ceb     0x1109 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzcalc_limits.o)
- .debug_info    0x00173df4      0xe92 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzset.o)
- .debug_info    0x00174c86     0x1439 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzset_r.o)
- .debug_info    0x001760bf      0xea5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzvars.o)
- .debug_info    0x00176f64     0x12aa c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsnprintf.o)
- .debug_info    0x0017820e     0x174d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
- .debug_info    0x0017995b     0x157f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
- .debug_info    0x0017aeda      0xe54 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-div.o)
- .debug_info    0x0017bd2e      0xf8a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-getenv_r.o)
- .debug_info    0x0017ccb8     0x101a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettzinfo.o)
- .debug_info    0x0017dcd2      0xe2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
- .debug_info    0x0017eafe      0xed1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-month_lengths.o)
- .debug_info    0x0017f9cf     0x1c97 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
- .debug_info    0x00181666     0x273f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(_lib_a-nano-vfprintf.cdeEfFgGnopsuxX.o)
- .debug_info    0x00183da5     0x1db8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_info    0x00185b5d      0xfe7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
- .debug_info    0x00186b44     0x1293 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sscanf.o)
- .debug_info    0x00187dd7     0x1a76 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-__ssputs.o)
- .debug_info    0x0018984d     0x1422 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
- .debug_info    0x0018ac6f     0x193b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtoul.o)
- .debug_info    0x0018c5aa     0x20f8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-dtoa.o)
- .debug_info    0x0018e6a2      0x23c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-environ.o)
- .debug_info    0x0018e8de      0xe2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-envlock.o)
- .debug_info    0x0018f708     0x1534 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
- .debug_info    0x00190c3c     0x16b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-localeconv.o)
- .debug_info    0x001922ef      0x120 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
- .debug_info    0x0019240f     0x2589 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mprec.o)
- .debug_info    0x00194998     0x1164 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
- .debug_info    0x00195afc     0x1e8b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfscanf.o)
- .debug_info    0x00197987     0x1d2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfscanf_i.o)
- .debug_info    0x001996b3     0x1152 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sccl.o)
- .debug_info    0x0019a805     0x1338 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ungetc.o)
- .debug_info    0x0019bb3d     0x109a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
- .debug_info    0x0019cbd7      0x286 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(sbrk.o)
- .debug_info    0x0019ce5d      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
- .debug_info    0x0019cf5f      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
+.debug_info     0x00000000   0x19c785
+ .debug_info    0x00000000     0x1730 build/sam_e54_xpro_winc1500/production/_ext/1370199163/plib_nvmctrl.o
+ .debug_info    0x00001730     0x7f15 build/sam_e54_xpro_winc1500/production/_ext/949561665/dns.o
+ .debug_info    0x00009645     0x54d0 build/sam_e54_xpro_winc1500/production/_ext/949561665/icmp.o
+ .debug_info    0x0000eb15     0x38a0 build/sam_e54_xpro_winc1500/production/_ext/1319543403/drv_memory.o
+ .debug_info    0x000123b5     0x17cf build/sam_e54_xpro_winc1500/production/_ext/1319543403/drv_memory_file_system.o
+ .debug_info    0x00013b84     0xb720 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcp.o
+ .debug_info    0x0001f2a4     0x9a3c build/sam_e54_xpro_winc1500/production/_ext/949561665/dhcp.o
+ .debug_info    0x00028ce0     0x726e build/sam_e54_xpro_winc1500/production/_ext/949561665/arp.o
+ .debug_info    0x0002ff4e      0xc70 build/sam_e54_xpro_winc1500/production/_ext/1320145242/plib_tc3.o
+ .debug_info    0x00030bbe     0x3a47 build/sam_e54_xpro_winc1500/production/_ext/323285254/sys_time.o
+ .debug_info    0x00034605     0xa109 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_commands.o
+ .debug_info    0x0003e70e     0x33bd build/sam_e54_xpro_winc1500/production/_ext/1319543403/drv_memory_nvmctrl.o
+ .debug_info    0x00041acb     0x10d9 build/sam_e54_xpro_winc1500/production/_ext/1159541321/bsp.o
+ .debug_info    0x00042ba4     0x7dc1 build/sam_e54_xpro_winc1500/production/_ext/949561665/http.o
+ .debug_info    0x0004a965     0x2d6d build/sam_e54_xpro_winc1500/production/_ext/1360937237/http_print.o
+ .debug_info    0x0004d6d2     0x5bad build/sam_e54_xpro_winc1500/production/_ext/1360937237/custom_http_app.o
+ .debug_info    0x0005327f     0x31f3 build/sam_e54_xpro_winc1500/production/_ext/1360937237/mpfs_img2.o
+ .debug_info    0x00056472     0x85a4 build/sam_e54_xpro_winc1500/production/_ext/949561665/iperf.o
+ .debug_info    0x0005ea16     0x694f build/sam_e54_xpro_winc1500/production/_ext/949561665/ipv4.o
+ .debug_info    0x00065365     0x5357 build/sam_e54_xpro_winc1500/production/_ext/138683810/drv_spi.o
+ .debug_info    0x0006a6bc     0x869d build/sam_e54_xpro_winc1500/production/_ext/949561665/dhcps.o
+ .debug_info    0x00072d59     0x1212 build/sam_e54_xpro_winc1500/production/_ext/203683476/sys_int.o
+ .debug_info    0x00073f6b      0x872 build/sam_e54_xpro_winc1500/production/_ext/895123808/sys_dma.o
+ .debug_info    0x000747dd     0x469f build/sam_e54_xpro_winc1500/production/_ext/1360937237/app.o
+ .debug_info    0x00078e7c     0x2f74 build/sam_e54_xpro_winc1500/production/_ext/231993977/tasks.o
+ .debug_info    0x0007bdf0     0x32da build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_heap_alloc.o
+ .debug_info    0x0007f0ca     0x4123 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_heap_internal.o
+ .debug_info    0x000831ed     0x29c7 build/sam_e54_xpro_winc1500/production/_ext/1864836729/sys_fs_shell.o
+ .debug_info    0x00085bb4     0x121d build/sam_e54_xpro_winc1500/production/_ext/949561665/helpers.o
+ .debug_info    0x00086dd1      0xf83 build/sam_e54_xpro_winc1500/production/_ext/949561665/hash_fnv.o
+ .debug_info    0x00087d54     0x15fd build/sam_e54_xpro_winc1500/production/_ext/949561665/oahash.o
+ .debug_info    0x00089351     0x7048 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_helpers.o
+ .debug_info    0x00090399     0xbca5 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_manager.o
+ .debug_info    0x0009c03e     0x310f build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_notify.o
+ .debug_info    0x0009f14d     0x40f1 build/sam_e54_xpro_winc1500/production/_ext/949561665/tcpip_packet.o
+ .debug_info    0x000a323e      0x57f build/sam_e54_xpro_winc1500/production/_ext/1018908599/sys_time_h2_adapter.o
+ .debug_info    0x000a37bd     0x1693 build/sam_e54_xpro_winc1500/production/_ext/923560386/plib_sercom2_usart.o
+ .debug_info    0x000a4e50      0x371 build/sam_e54_xpro_winc1500/production/_ext/581797455/plib_evsys.o
+ .debug_info    0x000a51c1     0x69df build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc.o
+ .debug_info    0x000abba0     0x3cf3 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_authctx.o
+ .debug_info    0x000af893     0x3537 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_bssctx.o
+ .debug_info    0x000b2dca     0x3f24 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_ethernet.o
+ .debug_info    0x000b6cee     0x42cc build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_softap.o
+ .debug_info    0x000bafba     0x47a1 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_sta.o
+ .debug_info    0x000bf75b     0x42b9 build/sam_e54_xpro_winc1500/production/_ext/810064134/wdrv_winc_systime.o
+ .debug_info    0x000c3a14     0x2fe6 build/sam_e54_xpro_winc1500/production/_ext/1232460686/wdrv_winc_eint.o
+ .debug_info    0x000c69fa     0x31b0 build/sam_e54_xpro_winc1500/production/_ext/1232460686/wdrv_winc_gpio.o
+ .debug_info    0x000c9baa     0x3e18 build/sam_e54_xpro_winc1500/production/_ext/930086057/wdrv_winc_spi.o
+ .debug_info    0x000cd9c2     0x3007 build/sam_e54_xpro_winc1500/production/_ext/550069128/wdrv_winc_osal.o
+ .debug_info    0x000d09c9     0x44f5 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_ctrl_itf.o
+ .debug_info    0x000d4ebe     0x6f2e build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_stack_drv.o
+ .debug_info    0x000dbdec     0x3635 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_pktpool.o
+ .debug_info    0x000df421     0x3655 build/sam_e54_xpro_winc1500/production/_ext/1210295256/wdrv_winc_stack_itf.o
+ .debug_info    0x000e2a76     0x309d build/sam_e54_xpro_winc1500/production/_ext/1121136421/nm_common.o
+ .debug_info    0x000e5b13     0x4540 build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_hif.o
+ .debug_info    0x000ea053     0x9b7b build/sam_e54_xpro_winc1500/production/_ext/1089847528/m2m_wifi.o
+ .debug_info    0x000f3bce     0x40f7 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmasic.o
+ .debug_info    0x000f7cc5     0x37d8 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmbus.o
+ .debug_info    0x000fb49d     0x38cc build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmdrv.o
+ .debug_info    0x000fed69     0x4787 build/sam_e54_xpro_winc1500/production/_ext/1089847528/nmspi.o
+ .debug_info    0x001034f0     0x40c5 build/sam_e54_xpro_winc1500/production/_ext/1114755757/spi_flash.o
+ .debug_info    0x001075b5     0x30d3 build/sam_e54_xpro_winc1500/production/_ext/44421432/sys_command.o
+ .debug_info    0x0010a688     0x2f02 build/sam_e54_xpro_winc1500/production/_ext/1360937237/main.o
+ .debug_info    0x0010d58a     0x87e8 build/sam_e54_xpro_winc1500/production/_ext/231993977/initialization.o
+ .debug_info    0x00115d72     0x44d6 build/sam_e54_xpro_winc1500/production/_ext/231993977/interrupts.o
+ .debug_info    0x0011a248     0x2fb0 build/sam_e54_xpro_winc1500/production/_ext/231993977/exceptions.o
+ .debug_info    0x0011d1f8      0x83d build/sam_e54_xpro_winc1500/production/_ext/1644121260/plib_port.o
+ .debug_info    0x0011da35      0xb82 build/sam_e54_xpro_winc1500/production/_ext/583946941/plib_clock.o
+ .debug_info    0x0011e5b7     0x1475 build/sam_e54_xpro_winc1500/production/_ext/1644068109/plib_nvic.o
+ .debug_info    0x0011fa2c     0x3404 build/sam_e54_xpro_winc1500/production/_ext/231993977/startup_xc32.o
+ .debug_info    0x00122e30     0x13df build/sam_e54_xpro_winc1500/production/_ext/801553948/plib_sercom4_spi.o
+ .debug_info    0x0012420f     0x950d build/sam_e54_xpro_winc1500/production/_ext/949561665/udp.o
+ .debug_info    0x0012d71c      0x77b build/sam_e54_xpro_winc1500/production/_ext/2025184588/plib_eic.o
+ .debug_info    0x0012de97     0x14da build/sam_e54_xpro_winc1500/production/_ext/1623561264/sys_debug.o
+ .debug_info    0x0012f371     0x44a6 build/sam_e54_xpro_winc1500/production/_ext/1664057780/cryptocb.o
+ .debug_info    0x00133817     0x2af0 build/sam_e54_xpro_winc1500/production/_ext/172253694/crypt_wolfcryptcb.o
+ .debug_info    0x00136307     0x2126 build/sam_e54_xpro_winc1500/production/_ext/1664057780/md5.o
+ .debug_info    0x0013842d     0x6d37 build/sam_e54_xpro_winc1500/production/_ext/949561665/dnss.o
+ .debug_info    0x0013f164     0x4d45 build/sam_e54_xpro_winc1500/production/_ext/880000762/sys_fs.o
+ .debug_info    0x00143ea9     0x334f build/sam_e54_xpro_winc1500/production/_ext/880000762/sys_fs_media_manager.o
+ .debug_info    0x001471f8     0x276a build/sam_e54_xpro_winc1500/production/_ext/1320862289/mpfs.o
+ .debug_info    0x00149962     0x1987 build/sam_e54_xpro_winc1500/production/_ext/501133612/sys_console.o
+ .debug_info    0x0014b2e9     0x5431 build/sam_e54_xpro_winc1500/production/_ext/501133612/sys_console_uart.o
+ .debug_info    0x0015071a     0x4bda build/sam_e54_xpro_winc1500/production/_ext/764583198/crypto.o
+ .debug_info    0x001552f4      0x2a2 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_info    0x00155596      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x00155698      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x0015579a      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0015589c      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixunsdfsi.o)
+ .debug_info    0x0015599e       0xfd c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00155a9b     0x1696 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_info    0x00157131      0x101 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00157232      0xea7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-atoi.o)
+ .debug_info    0x001580d9      0xea7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-atol.o)
+ .debug_info    0x00158f80      0xe53 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-calloc.o)
+ .debug_info    0x00159dd3      0xdef c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+ .debug_info    0x0015abc2      0x41f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .debug_info    0x0015afe1     0x189e c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-locale.o)
+ .debug_info    0x0015c87f      0xe92 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-malloc.o)
+ .debug_info    0x0015d711     0x1782 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mbtowc_r.o)
+ .debug_info    0x0015ee93      0xe49 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcmp.o)
+ .debug_info    0x0015fcdc      0xe68 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_info    0x00160b44     0x15de c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memmove.o)
+ .debug_info    0x00162122     0x15ae c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_info    0x001636d0     0x12ff c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mktime.o)
+ .debug_info    0x001649cf     0x10e1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-callocr.o)
+ .debug_info    0x00165ab0     0x11c1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x00166c71     0x1259 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x00167eca      0xeda c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-rand.o)
+ .debug_info    0x00168da4      0xedf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x00169c83     0x12cf c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-snprintf.o)
+ .debug_info    0x0016af52     0x125c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sprintf.o)
+ .debug_info    0x0016c1ae      0xe2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strchr.o)
+ .debug_info    0x0016cfda      0x129 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcmp.o)
+ .debug_info    0x0016d103      0xe0b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strcpy.o)
+ .debug_info    0x0016df0e      0x12a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strlen.o)
+ .debug_info    0x0016e038      0xe24 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strncmp.o)
+ .debug_info    0x0016ee5c      0xe4c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strncpy.o)
+ .debug_info    0x0016fca8      0xe31 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strstr.o)
+ .debug_info    0x00170ad9     0x1936 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtol.o)
+ .debug_info    0x0017240f     0x1109 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzcalc_limits.o)
+ .debug_info    0x00173518      0xe92 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzset.o)
+ .debug_info    0x001743aa     0x1439 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzset_r.o)
+ .debug_info    0x001757e3      0xea5 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-tzvars.o)
+ .debug_info    0x00176688     0x12aa c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-vsnprintf.o)
+ .debug_info    0x00177932     0x174d c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wctomb_r.o)
+ .debug_info    0x0017907f     0x157f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ctype_.o)
+ .debug_info    0x0017a5fe      0xe54 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-div.o)
+ .debug_info    0x0017b452      0xf8a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-getenv_r.o)
+ .debug_info    0x0017c3dc     0x101a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-gettzinfo.o)
+ .debug_info    0x0017d3f6      0xe2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .debug_info    0x0017e222      0xed1 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-month_lengths.o)
+ .debug_info    0x0017f0f3     0x1c97 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfprintf.o)
+ .debug_info    0x00180d8a     0x273f c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(_lib_a-nano-vfprintf.cdeEfFgGnopsuxX.o)
+ .debug_info    0x001834c9     0x1db8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x00185281      0xfe7 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .debug_info    0x00186268     0x1293 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sscanf.o)
+ .debug_info    0x001874fb     0x1a76 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-__ssputs.o)
+ .debug_info    0x00188f71     0x1422 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+ .debug_info    0x0018a393     0x193b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-strtoul.o)
+ .debug_info    0x0018bcce     0x20f8 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-dtoa.o)
+ .debug_info    0x0018ddc6      0x23c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-environ.o)
+ .debug_info    0x0018e002      0xe2a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-envlock.o)
+ .debug_info    0x0018ee2c     0x1534 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+ .debug_info    0x00190360     0x16b3 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-localeconv.o)
+ .debug_info    0x00191a13      0x120 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+ .debug_info    0x00191b33     0x2589 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mprec.o)
+ .debug_info    0x001940bc     0x1164 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-reallocr.o)
+ .debug_info    0x00195220     0x1e8b c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-svfscanf.o)
+ .debug_info    0x001970ab     0x1d2c c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfscanf_i.o)
+ .debug_info    0x00198dd7     0x1152 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sccl.o)
+ .debug_info    0x00199f29     0x1338 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-ungetc.o)
+ .debug_info    0x0019b261     0x109a c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-msizer.o)
+ .debug_info    0x0019c2fb      0x286 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(sbrk.o)
+ .debug_info    0x0019c581      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_unorddf2.o)
+ .debug_info    0x0019c683      0x102 c:/program files/microchip/xc32/v2.40/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a(_arm_fixdfsi.o)
 
 .debug_abbrev   0x00000000    0x19346
  .debug_abbrev  0x00000000      0x2a2 build/sam_e54_xpro_winc1500/production/_ext/1370199163/plib_nvmctrl.o

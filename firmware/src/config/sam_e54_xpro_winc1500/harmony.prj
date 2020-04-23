@@ -3,7 +3,7 @@
   <Configurator>
     <Name dnOrder="0" value="sam_e54_xpro_winc1500"/>
     <Processor dnOrder="1" value="ATSAME54P20A"/>
-    <Harmony dnOrder="2" path="../../.."/>
+    <Harmony dnOrder="2" path="../h3"/>
     <Manifest dnOrder="3">
       <Files dnOrder="0">
         <File dnOrder="0">
